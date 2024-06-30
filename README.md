@@ -1,2 +1,2 @@
-@Everyone seeing this
-"DONT OPEN THE WEB DEV FILE"
+This is your friendly AI chatbot
+
